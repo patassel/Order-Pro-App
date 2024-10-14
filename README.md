@@ -6,7 +6,7 @@
 
 ## 🎯 For Whom?
 
-**Order Pro** is specifically built for the **hospitality industry**. Whether you're running a restaurant, a food truck, or a coffee houses, Order Pro has something for you!
+**Order Pro** is specifically built for the **hospitality industry**. Whether you're running a restaurant, a food truck, or a coffee house, Order Pro has something for you!
 
 It will feature **three key roles** all within one seamless application:
 
@@ -17,7 +17,6 @@ It will feature **three key roles** all within one seamless application:
    - Set delivery options
    - And more!
 
-
 2. **👩‍🍳 Cook / Order Taker**:  
    This role is for kitchen staff or the order taker who can receive orders directly on a terminal. No more mix-ups with paper tickets!  
    They will:
@@ -25,7 +24,6 @@ It will feature **three key roles** all within one seamless application:
    - Track order progress  
    - Communicate back with the staff
    
-
 3. **👥 Customer**:  
    For the customer, convenience is key! They can:
    - Search for nearby establishments via geolocation 🗺️
@@ -38,19 +36,29 @@ It will feature **three key roles** all within one seamless application:
    - Use a web link 🌐
    - Or place an order via the app itself 📦
 
-
-
 ---
 
 ## 🛠️ Technology Stack
 
 Order Pro is being built using modern, cutting-edge technology:
-- **Flutter** for the cross-platform mobile app 📱
-- **Firebase** for real-time data synchronization 🔄
-- **Node.js** backend for handling requests and API operations 🛠️
-- **Google Maps API** for location services 🌍
 
+- **Flutter** for the cross-platform mobile app 📱 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" width="40"/>
 
+- **Firebase** for real-time data synchronization 🔄 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Logo" width="40"/>
+
+- **Node.js** backend for handling requests and API operations 🛠️ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="40"/>
+
+- **Google Cloud** for location services and more 🌍  
+
+### 🔧 **Backend & Database Layer**
+
+In addition to the above, **Order Pro** leverages a strong backend built with:
+
+- **Next.js**: A React-based framework for server-side rendering and backend API handling. <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js Logo" width="40"/>
+
+- **Prisma**: An ORM (Object-Relational Mapping) tool for easier database management and querying.  
+
+This combination ensures that the application is scalable, efficient, and capable of supporting complex operations in real-time.
 
 ---
 
@@ -83,8 +91,9 @@ Take a look at some early previews of **Order Pro** as the development progresse
 ## 💬 Contact Us
 
 Have feedback or questions? Reach out to us:
-- Email: [patasseldev@gmail.com](mailto:patasseldev@gmail.com)  
+
+- Email: [patasseldev@gmail.com](mailto:patasseldev@gmail.com)
 
 ---
 
-> **Order Pro** – Hospitality industry! 🛎️
+> **Order Pro** – Transforming hospitality management! 🛎️
